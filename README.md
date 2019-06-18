@@ -8,7 +8,7 @@ Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 ## Growth Mindset :seedling:
 The idea that humans are inherent learners whose skills are improved with dedication and diligence. Someone is not simply born with all the skills they need, they must aquire them over time. This mindset allows a person to be adaptable to challenges and to succeed no matter the obstacle. Conversely, a person with a fixed mindset abandons challenge quickly. They are easily discouraged by the successes of others. 
 
-#### Reminders to help stay in a growth mindset:sunny:
+#### Reminders to help stay in a growth mindset
 - [x] Take 3 deep breaths
 - [x] Everyone is frustrated when they learn something new
 - [x] You will get through this
