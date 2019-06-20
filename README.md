@@ -35,7 +35,7 @@ Some Basic Markdown Examples:
   * *prompt* is presented from terminal.
   * *command* is what I type.
   * *arguments* 
-  * *options* typically stary with a dash and are used to modify the behavior of the command.
+  * *options* typically start with a dash and are used to modify the behavior of the command.
   * *outputs* 
  - The Shell: Part of the OS that defines how to terminal will behave, executes commands. **BASH** is an example of a shell.
  - Shortcuts rock!
@@ -47,11 +47,11 @@ Some Basic Markdown Examples:
    - Location: File or directory
    - Root Directory: the Top of the hierarchy
    - Absolute: specify a location in relation to the root directory. Yes slash (/)
-   - Relative: specify a location to where we currectly are in the system. No slash
+   - Relative: specify a location to where we currently are in the system. No slash
    
    |command|define|Why use?|
    |-----|-----|-----|
-   |*pwd* |Print Working Directory|Use to remind youself of where you presently are 
+   |*pwd* |Print Working Directory|Use to remind yourself of where you presently are 
    |*ls* |List |Lists current location (contents in a current directory), can use with arguments
    |*ls -l*|Long listing option|Use when want more info than just ls
    |*ls /ect*|List a specific item's contents|Argument asking to list contents of directory named 'ect' instead of current directory
