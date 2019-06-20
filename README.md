@@ -41,13 +41,13 @@ Some Basic Markdown Examples:
  - Shortcuts rock!
    * use *UP* and *DOWN* keys to use recently used commands.
    
-   ## Basic Navigation
+## Basic Navigation
    
    Path: a means to get a particular file or directory on the system. 
    - Location: File or directory
    - Root Directory: the Top of the hierarchy
-   - Absolute: specify a location in relation to the root directory
-   - Relative: 
+   - Absolute: specify a location in relation to the root directory. Yes slash (/)
+   - Relative: specify a location to where we currectly are in the system. No slash
    
    |command|define|Why use?|
    |-----|-----|-----|
@@ -55,9 +55,16 @@ Some Basic Markdown Examples:
    |*ls* |List |Lists current location (contents in a current directory), can use with arguments
    |*ls -l*|Long listing option|Use when want more info than just ls
    |*ls /ect*|List a specific item's contents|Argument asking to list contents of directory named 'ect' instead of current directory
-   
+   | *~*| Shortcut for Home directory |If home is /home/julie then ~ is /home/julie. Can find docs with the path ~/Documents.
+   |*.*| ref current directory|./Documents
+   |*..*| ref parent directory|Use to go up the hierarchy, can use several times.
+   |*cd* |Change directories|Take you instantly back to home directory|
+   |*cd with argument*|Move to a specific directory|
+   |*Tab completion*| Shortcut to typing|As you type, hit tab for autocomplete
    
  
+## More about files
+
 
 
 
