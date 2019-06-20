@@ -64,11 +64,12 @@ Some Basic Markdown Examples:
    
  
 ## More about Files
-
+```
 Rule 1: Everything is a file
 Rule 2: Linux is CAsE SeNSItivE
 Rule 3: If you have **spaces** in your file name, you must use **'quotes'** or **escape/ characters**. You can also try **tab completion**
 Rule 4: Hidden files are a thing. To make a hidden file simply put a .(full stop) in front of the name. To make unhidden, remove it. ls will NOT show hidden files. To see hidden files in addition to the other contents in the directory, use command: ls -a
+```
 
 Common Extensions [ryanstutorials.net]
 * file.exe - an executable file, or program.
