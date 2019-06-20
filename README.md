@@ -63,9 +63,25 @@ Some Basic Markdown Examples:
    |*Tab completion*| Shortcut to typing|As you type, hit tab for autocomplete
    
  
-## More about files
+## More about Files
+
+Rule 1: Everything is a file
+Rule 2: Linux is CAsE SeNSItivE
+Rule 3: If you have **spaces** in your file name, you must use **'quotes'** or **escape/ characters**. You can also try **tab completion**
+Rule 4: Hidden files are a thing. To make a hidden file simply put a .(full stop) in front of the name. To make unhidden, remove it. ls will NOT show hidden files. To see hidden files in addition to the other contents in the directory, use command: ls -a
+
+Common Extensions [ryanstutorials.net]
+* file.exe - an executable file, or program.
+* file.txt - a plain text file.
+* file.png, file.gif, file.jpg - an image.
+
+|command|define|Why use?|
+|-----|-----|-----|
+|*file* path|File with argument included |Tells type of file
+|\ |Backslash is an escape character| nullify the special meaning of the **next** character
 
 
+   
 
 
 
