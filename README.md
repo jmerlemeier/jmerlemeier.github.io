@@ -5,6 +5,8 @@ I was born in [New Orleans, LA](https://www.neworleans.com/things-to-do/haunted/
 
 Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 
+###### June 17, 2019
+
 ## Growth Mindset 
 The idea that humans are inherent learners whose skills are improved with dedication and diligence. Someone is not simply born with all the skills they need, they must aquire them over time. This mindset allows a person to be adaptable to challenges and to succeed no matter the obstacle. Conversely, a person with a fixed mindset abandons challenge quickly. They are easily discouraged by the successes of others. 
 
@@ -24,6 +26,41 @@ Some Basic Markdown Examples:
 |*Italics*| * | * | 
 
 
+###### June 19, 2019
+
+
+## Notes on The Command Line, ryanstutorials.net
+
+- Command Line: text based interface to the system, according to the website
+  * *prompt* is presented from terminal.
+  * *command* is what I type.
+  * *arguments* 
+  * *options* typically stary with a dash and are used to modify the behavior of the command.
+  * *outputs* 
+ - The Shell: Part of the OS that defines how to terminal will behave, executes commands. **BASH** is an example of a shell.
+ - Shortcuts rock!
+   * use *UP* and *DOWN* keys to use recently used commands.
+   
+   ## Basic Navigation
+   
+   Path: a means to get a particular file or directory on the system. 
+   - Location: File or directory
+   - Root Directory: the Top of the hierarchy
+   - Absolute: specify a location in relation to the root directory
+   - Relative: 
+   
+   |command|define|Why use?|
+   |-----|-----|-----|
+   |*pwd* |Print Working Directory|Use to remind youself of where you presently are 
+   |*ls* |List |Lists current location (contents in a current directory), can use with arguments
+   |*ls -l*|Long listing option|Use when want more info than just ls
+   |*ls /ect*|List a specific item's contents|Argument asking to list contents of directory named 'ect' instead of current directory
+   
+   
+ 
+
+
 
 
 ![Image of Coffee and thanks](https://isorepublic.com/wp-content/uploads/2018/11/isorepublic-coffee-thanks-1-1100x733.jpg)
+
