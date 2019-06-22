@@ -10,7 +10,7 @@ Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 
 ## Git Tutorial, created by Linus Torvalds, the chief architect of the Linux kernel
 
-Git is a Distributed Version Control System (DVCS). A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. It stores data in a file system made up of snapshots. Storing an altered version is 'called making a commit'.
+Git is a Distributed Version Control System (DVCS). A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. It stores data in a file system made up of snapshots. Storing an altered version is 'called making a commit'. Who did what to what file, when? It store a history of changes to your files. 
 
 Files in Git can reside in three main states: committed, modified and staged.
 
@@ -35,7 +35,7 @@ Ways to get help with Git from the terminal:
 3. Know the Structure of the repository.
 ```
 WORKING DIRECTORY------add------>INDEX------commit------>HEAD
-:where files live           :area for staging      :points to recent commit
+:where files live           :area for staging      :points to recent commit "You are here"
 ```
 4. Interact with a file
 ![Life cyle of File with Git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
@@ -54,6 +54,7 @@ WORKING DIRECTORY------add------>INDEX------commit------>HEAD
 |---|---|---
 |Commit 1+ files|Commit to Head with a message|$ git commit -m “made change x,y,z”
 |Commit all changes|Commit a snapshot of all files in working directory |$ git commit -a
+Remember to make short, specific messages
 
 #### How do I Push changes to a remote repository?
 *$ git push origin master*
@@ -64,6 +65,14 @@ WORKING DIRECTORY------add------>INDEX------commit------>HEAD
 
 #### How do I see my remote repos?
 *git remote* and *git remote -v*
+
+## What is GitHub
+Share code online and collaborate with others
+## What is a repo?
+Usually 1 project - 1 repo
+They can live on Github and/or your computer
+You set up a connection between GitHub and your computer (through Git and your terminal)
+
 
 
 ###### June 19, 2019
