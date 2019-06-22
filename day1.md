@@ -17,3 +17,5 @@ Some Basic Markdown Examples:
 |---|---|---|
 |**BOLD**| ** | ** |
 |*Italics*| * | * | 
+
+[Return to Homepage](README.md)

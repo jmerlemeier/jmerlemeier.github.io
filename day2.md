@@ -13,6 +13,8 @@
  - Shortcuts rock!
    * use *UP* and *DOWN* keys to use recently used commands.
    
+---------------------------------------------------------------------
+
 ## Basic Navigation
    
    Path: a means to get a particular file or directory on the system. 
@@ -34,6 +36,7 @@
    |*cd with argument*|Move to a specific directory|
    |*Tab completion*| Shortcut to typing|As you type, hit tab for autocomplete
    
+---------------------------------------------------------------------
  
 ## More about Files
 ```
@@ -52,3 +55,5 @@ Common Extensions [ryanstutorials.net]
 |-----|-----|-----|
 |*file* path|File with argument included |Tells type of file
 |\ |Backslash is an escape character| nullify the special meaning of the **next** character
+
+[Return to Homepage](README.md)

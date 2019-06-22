@@ -21,6 +21,8 @@ Ways to get help with Git from the terminal:
 * git command --help
 * man git-command
 
+---------------------------------------------------------------------
+
 ## How to
  
 1. Download Git
@@ -34,13 +36,15 @@ WORKING DIRECTORY------add------>INDEX------commit------>HEAD
 ![Life cyle of File with Git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 5. You can check the status of a file using *$ git status*
 
+---------------------------------------------------------------------
+
+## FAQs
+
 #### How do I Track and Stage a new file?
 |How many files?|What is happening?|Command for Terminal
 |---|---|---
 |Single File|Track one file, now staged for committing|git add filename
 |All Files|All files in the repo are tracked, now staged for committing|$ git add *
-
-## FAQs
 
 #### How do I commit?
 |How many files?|What is happening?|Command for Terminal
@@ -63,9 +67,12 @@ Remember to make short, specific messages
 #### How do I download repo from GitHub to my computer?
 *git clone [URL from GitHub]* You get the URL from clone/download button from GitHub
 
-## What is GitHub
+#### What is GitHub
 Share code online and collaborate with others
-## What is a repo?
+
+#### What is a repo?
 Usually 1 project - 1 repo
 They can live on Github and/or your computer
 You set up a connection between GitHub and your computer (through Git and your terminal)
+
+[Return to Homepage](README.md)
