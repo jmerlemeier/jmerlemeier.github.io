@@ -59,10 +59,10 @@ Before you design site, ask "Who is my target audience?" Create fictional profil
   - *ul*
   - *li*
 * Inline elements always continue on the same line
-- *a*
-- *b*
-- *em*
-- *img*
+  - *a*
+  - *b*
+  - *em*
+  - *img*
 * *span* is an inline eqivalent to *div*
 * *iframe* meaning 'inline frame' is a little window cut into your page and inside that window you can see another html page! Great to embedd Google Maps into page. You need 3 attributes:
   - *width*
