@@ -5,25 +5,65 @@ I was born in [New Orleans, LA](https://www.neworleans.com/things-to-do/haunted/
 
 Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 
-###### June 17, 2019
+###### June 21, 2019
 
-## Growth Mindset 
-The idea that humans are inherent learners whose skills are improved with dedication and diligence. Someone is not simply born with all the skills they need, they must aquire them over time. This mindset allows a person to be adaptable to challenges and to succeed no matter the obstacle. Conversely, a person with a fixed mindset abandons challenge quickly. They are easily discouraged by the successes of others. 
 
-#### Reminders to help stay in a growth mindset
-- [x] Take 3 deep breaths
-- [x] Everyone is frustrated when they learn something new
-- [x] You will get through this
+## Git Tutorial, created by Linus Torvalds, the chief architect of the Linux kernel
 
-## Markdown 
-Today, I learned that markdown is a language used in Github. It is a quick, easy way to create and publish content. With a little [help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#paragraphs-and-line-breaks), I learned how to write and format the page you see here. I can add links, *style text*, create lists, and use emojis :octocat:, too!
+Git is a Distributed Version Control System (DVCS). A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. It stores data in a file system made up of snapshots. Storing an altered version is 'called making a commit'.
 
-Some Basic Markdown Examples:
+Files in Git can reside in three main states: committed, modified and staged.
 
-|Style|Syntax before word|Syntax after word
-|---|---|---|
-|**BOLD**| ** | ** |
-|*Italics*| * | * | 
+Committed
+Data is securely stored in a local database
+
+Modified
+File has been changed but not committed to the database
+
+Staged
+Flagged a file’s changed version to be committed in the next snapshot
+
+Ways to get help with Git from the terminal: 
+* git help command
+* git command --help
+* man git-command
+
+## How to
+ 
+1. Download Git
+2. Set up a Git Repository by importing or cloning
+3. Know the Structure of the repository.
+```
+WORKING DIRECTORY------add------>INDEX------commit------>HEAD
+:where files live           :area for staging      :points to recent commit
+```
+4. Interact with a file
+![Life cyle of File with Git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+5. You can check the status of a file using *$ git status*
+
+#### How do I Track and Stage a new file?
+|How many files?|What is happening?|Command for Terminal
+|---|---|---
+|Single File|Track one file, now staged for committing|git add filename
+|All Files|All files in the repo are tracked, now staged for committing|$ git add *
+
+## FAQs
+
+#### How do I commit?
+|How many files?|What is happening?|Command for Terminal
+|---|---|---
+|Commit 1+ files|Commit to Head with a message|$ git commit -m “made change x,y,z”
+|Commit all changes|Commit a snapshot of all files in working directory |$ git commit -a
+
+#### How do I Push changes to a remote repository?
+*$ git push origin master*
+
+#### How do I stash changes if I am not ready to commit, but want to save them?
+*git stash* and *git stash apply*
+(the first temporary removes changes and hides them so you can easily work, the second retrieves them).
+
+#### How do I see my remote repos?
+*git remote* and *git remote -v*
 
 
 ###### June 19, 2019
@@ -82,41 +122,28 @@ Common Extensions [ryanstutorials.net]
 |\ |Backslash is an escape character| nullify the special meaning of the **next** character
 
 
-###### June 21, 2019
+###### June 17, 2019
 
 
-## Git Tutorial, created by Linus Torvalds, the chief architect of the Linux kernel
+## Growth Mindset 
+The idea that humans are inherent learners whose skills are improved with dedication and diligence. Someone is not simply born with all the skills they need, they must aquire them over time. This mindset allows a person to be adaptable to challenges and to succeed no matter the obstacle. Conversely, a person with a fixed mindset abandons challenge quickly. They are easily discouraged by the successes of others. 
 
-Git is a Distributed Version Control System (DVCS). A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. It stores data in a file system made up of snapshots. Storing an altered version is 'called making a commit'.
+#### Reminders to help stay in a growth mindset
+- [x] Take 3 deep breaths
+- [x] Everyone is frustrated when they learn something new
+- [x] You will get through this
 
-Files in Git can reside in three main states: committed, modified and staged.
+## Markdown 
+Today, I learned that markdown is a language used in Github. It is a quick, easy way to create and publish content. With a little [help](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#paragraphs-and-line-breaks), I learned how to write and format the page you see here. I can add links, *style text*, create lists, and use emojis :octocat:, too!
 
-Committed
-Data is securely stored in a local database
+Some Basic Markdown Examples:
 
-Modified
-File has been changed but not committed to the database
+|Style|Syntax before word|Syntax after word
+|---|---|---|
+|**BOLD**| ** | ** |
+|*Italics*| * | * | 
 
-Staged
-Flagged a file’s changed version to be committed in the next snapshot
 
-Ways to get help with Git from the terminal: 
-* git help command
-* git command --help
-* man git-command
-
-## How to
- 
-1. Download Git
-2. Set up a Git Repository by importing or cloning
-3. Know the Structure of the repository.
-```
-Working Directory--**add**-->Index--**commit**-->Head
-```
-4. Interact with a file
-![Life cyle of File with Git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
-5. You can check the status of a file using *$ git status*
-6. 
 
 
 ![Image of Coffee and thanks](https://isorepublic.com/wp-content/uploads/2018/11/isorepublic-coffee-thanks-1-1100x733.jpg)
