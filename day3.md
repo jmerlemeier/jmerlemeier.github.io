@@ -38,6 +38,28 @@ WORKING DIRECTORY------add------>INDEX------commit------>HEAD
 
 ---------------------------------------------------------------------
 
+Workflow
+Clone from GitHub - only need to do once per project
+1. Got to Git hub and copy link
+2. Open Terminal
+3. Type git clone [paste URL]
+
+Add, commit, push over and over
+1. Open terminal
+2. Git status (red not committed, green ready to commit)
+3. Git add index.md
+4. Git status and see index is green
+5. Git add day3.md
+6. Or add files by: git add - - all 
+7. Git status and now all of them a green
+8. Git commit -m “Added Day 3 file page and created Table of contents”
+9. Once hit enter, it will give you a summary
+10. Git status will say nothing to commit
+11. To see what repo this git is hooked up to is: git remote -v. It will give you a nickname ‘origin’
+12. Git push origin master and hit enter
+
+
+---------------------------------------------------------------------
 ## FAQs
 
 #### How do I Track and Stage a new file?
