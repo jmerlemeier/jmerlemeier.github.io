@@ -11,6 +11,7 @@ Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 - [Day1](day1.md)
 - [Day2](day2.md)
 - [Day3](day3.md)
+- [Day 4](day4.md)
 
 
 
