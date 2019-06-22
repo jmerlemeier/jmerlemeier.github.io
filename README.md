@@ -82,8 +82,41 @@ Common Extensions [ryanstutorials.net]
 |\ |Backslash is an escape character| nullify the special meaning of the **next** character
 
 
-   
+###### June 21, 2019
 
+
+## Git Tutorial, created by Linus Torvalds, the chief architect of the Linux kernel
+
+Git is a Distributed Version Control System (DVCS). A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. It stores data in a file system made up of snapshots. Storing an altered version is 'called making a commit'.
+
+Files in Git can reside in three main states: committed, modified and staged.
+
+Committed
+Data is securely stored in a local database
+
+Modified
+File has been changed but not committed to the database
+
+Staged
+Flagged a file’s changed version to be committed in the next snapshot
+
+Ways to get help with Git from the terminal: 
+* git help command
+* git command --help
+* man git-command
+
+## How to
+ 
+1. Download Git
+2. Set up a Git Repository by importing or cloning
+3. Know the Structure of the repository.
+```
+Working Directory--**add**-->Index--**commit**-->Head
+```
+4. Interact with a file
+![Life cyle of File with Git](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+5. You can check the status of a file using *$ git status*
+6. 
 
 
 ![Image of Coffee and thanks](https://isorepublic.com/wp-content/uploads/2018/11/isorepublic-coffee-thanks-1-1100x733.jpg)
