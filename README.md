@@ -1,4 +1,4 @@
-# Julie's Journal for Code 102
+# Julie's Journal for Code 102, https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#5_1
 
 ## Intro 
 I was born in [New Orleans, LA](https://www.neworleans.com/things-to-do/haunted/); grew up in [Duluth, MN](https://www.google.com/maps/place/Duluth,+MN/@46.7646466,-92.3910849,10z/data=!3m1!4b1!4m5!3m4!1s0x52ae527e782e37ff:0x90fdbf76eb580c72!8m2!3d46.7866719!4d-92.1004852); and moved to [Seattle, WA](https://theoatmeal.com/blog/seattle_weather) in 2009 for music. I have a Bachelor of Science in Cellular and Molecular Biology from UW. My love of medicine led me to work in women's heath, where I have been working for the past 3 years. I have a concert grand harp and a monster/cat named Pip. This year, I am focusing on my little garden. I hope my carrots will grow - plants usually come to my flower beds to *die*. For fun, I bake cookies and fresh peach cheesecake for friends. In the next 5 years, I would like to start keeping a small hive of bees. 
@@ -54,6 +54,7 @@ WORKING DIRECTORY------add------>INDEX------commit------>HEAD
 |---|---|---
 |Commit 1+ files|Commit to Head with a message|$ git commit -m “made change x,y,z”
 |Commit all changes|Commit a snapshot of all files in working directory |$ git commit -a
+
 Remember to make short, specific messages
 
 #### How do I Push changes to a remote repository?
@@ -66,12 +67,16 @@ Remember to make short, specific messages
 #### How do I see my remote repos?
 *git remote* and *git remote -v*
 
+#### How do I download repo from GitHub to my computer?
+*git clone [URL from GitHub]* You get the URL from clone/download button from GitHub
+
 ## What is GitHub
 Share code online and collaborate with others
 ## What is a repo?
 Usually 1 project - 1 repo
 They can live on Github and/or your computer
 You set up a connection between GitHub and your computer (through Git and your terminal)
+
 
 
 
