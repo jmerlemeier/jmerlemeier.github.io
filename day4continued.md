@@ -4,6 +4,9 @@
 
 ### Ch. 10, Introducing CSS
 
+[CSS Tricks](https://css-tricks.com/almanac/)
+[Adobe Color](https://color.adobe.com/create)
+
 #### Thinking about it
 Imagine there is an invisible box surrrounding each HTML element.
 ```

@@ -31,5 +31,5 @@ here we are naming and assigning at the same time
 
 When the browser comes across a *script* element, it stops to load the script and then checks to see if it needs to do anything.
 
-####In summary:
+#### In summary:
           From HTML: use *link* to link to .css (CSS file) and *script* to link to .js (javascript file)

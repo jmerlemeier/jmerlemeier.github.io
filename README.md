@@ -12,6 +12,8 @@ Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 - [Day2](day2.md)
 - [Day3](day3.md)
 - [Day4](day4.md)
+- [Day4_HTML&CSS](day4continued.md)
+- [Day4_Javascript](day4javascript.md)
 
 
 
