@@ -75,5 +75,6 @@ Before you design site, ask "Who is my target audience?" Create fictional profil
 * *meta* lives inside *head* and provides info not visible to user
 * Make sure to use escape characters as needed
 
+---------------------------------------------------------------------
 
 [Return to Homepage](README.md)

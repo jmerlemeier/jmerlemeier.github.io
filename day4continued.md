@@ -29,3 +29,6 @@ CSS Rule contains 2 parts: selector and declaration
   - {color: #ee3e80;}
   - {color: (rgb9200, 200, 200);}
   - {background color: hsla(0, 100%, 100%, 0.5);}
+
+---------------------------------------------------------------------
+[Return to Homepage](README.md)
