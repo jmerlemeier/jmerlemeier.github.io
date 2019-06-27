@@ -15,6 +15,7 @@ Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
   * [Day4_HTML&CSS](day4continued.md)
   * [Day4_Javascript](day4javascript.md)
 - [Day5](day5.md)
+- [Day6](day6.md)
 
 
 ![Image of Coffee and thanks](https://isorepublic.com/wp-content/uploads/2018/11/isorepublic-coffee-thanks-1-1100x733.jpg)
