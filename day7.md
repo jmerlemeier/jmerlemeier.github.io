@@ -75,3 +75,7 @@ OR
 Questions:
 1. It seems there are a variety of syntax options. What is best practice?
 2. Are objects just arrays for strings?
+
+---------------------------------------------------------------------
+
+[Return to Homepage](README.md)
