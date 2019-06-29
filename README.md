@@ -8,14 +8,15 @@ I was born in [New Orleans, LA](https://www.neworleans.com/things-to-do/haunted/
 Here is my [Github Profile Page](https://github.com/jmerlemeier), enjoy!
 
 ## Table of Contents
-- [Day1](day1.md)
-- [Day2](day2.md)
-- [Day3](day3.md)
-- [Day4](day4.md)
-  * [Day4_HTML&CSS](day4continued.md)
-  * [Day4_Javascript](day4javascript.md)
-- [Day5](day5.md)
-- [Day6](day6.md)
+- ['Day 1'](day1.md)
+- ['Day 2'](day2.md)
+- ['Day 3'](day3.md)
+- ['Day 4'](day4.md)
+  * ['HTML&CSS'](day4continued.md)
+  * ['Javascript'](day4javascript.md)
+- ['Day 5"](day5.md)
+- ['Day 6'](day6.md)
+- ['Day 7'](day7.md)
 
 
 ![Image of Coffee and thanks](https://isorepublic.com/wp-content/uploads/2018/11/isorepublic-coffee-thanks-1-1100x733.jpg)
